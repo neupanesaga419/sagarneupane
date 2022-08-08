@@ -11,7 +11,7 @@ Skills: Django/Python/JS / HTML / CSS
 - 🔭 I’m currently working on Learning and Making Small Projects 
 - 🌱 I’m currently learning Python and It's Framework Django 
 - 💬 Ask me about Python, DSA , Machine Learning 
-- 📫 How to reach me: sagar.neupane419@gmail.com 
+- 📫 How to reach me: mail me at-> sagar.neupane419@gmail.com , neupanesaga419@gmail.com
 - ⚡ Fun fact: I love satire and songs. and my name also starts with letter 's' 
 
 
